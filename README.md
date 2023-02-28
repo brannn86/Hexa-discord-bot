@@ -1,0 +1,2 @@
+# Hexa Discord Bot
+
