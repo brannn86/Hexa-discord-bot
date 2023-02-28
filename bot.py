@@ -22,7 +22,7 @@ async def on_ready():
 
 @bot.command()
 async def help(ctx):
-    await ctx.send(f"""Hello! This is Musebot. I'm currently in development
+    await ctx.send(f"""Hello! This is Hexa. I'm currently in development
 `!help` to show this message
 `!roll` to roll a dice
 `!add` add numbers in series
