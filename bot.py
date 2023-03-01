@@ -3,7 +3,7 @@ import discord
 import random
 
 
-TOKEN = "MTA3OTk2NTU3NDQ0NjE5MDY0Mw.G2rUMu.nmV3yZYGi1hO3iwvEGMX4YamBr07WUuAJeDFJk"
+TOKEN = "BOT_TOKEN"
 CHANNEL_ID = 1059299802942287953 # default channel id
 
 
